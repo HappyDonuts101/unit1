@@ -11,7 +11,7 @@ line(0, 0, 600, 600); //x1, y1, x2, y2
 background(255, 39, 205); //r, g, b 
 //Hill
 fill(170, 31, 31); //r, g, b: 0-255
-triangle (0, 300, 300, 0, 600, 300); //x1, y1, x2, y2, x3, y3rect(300, 300, 100, 200); //x, y, width, height
+triangle (0, 300, 300, 0, 600, 300); //x1, y1, x2, y2, x3, y3
 rect(300, 300, 100, 200); //x, y, width, height
 
 stroke(246, 255, 0); //r, g, b
